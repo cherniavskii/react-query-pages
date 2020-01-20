@@ -4,6 +4,11 @@
   "description": "React Query wrapper hook for fetching paginated data",
   "author": "cherniavskii",
   "license": "MIT",
+  "homepage": "https://github.com/cherniavskii/react-query-pages",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cherniavskii/react-query-pages.git"
+  },
   "main": "./index.js",
   "peerDependencies": {
     "react": "^16.6.3",
