@@ -1,0 +1,12 @@
+{
+  "name": "react-query-pages",
+  "version": "0.1.0",
+  "description": "React Query wrapper hook for fetching paginated data",
+  "author": "cherniavskii",
+  "license": "MIT",
+  "main": "./index.js",
+  "peerDependencies": {
+    "react": "^16.6.3",
+    "react-query": "^0.3.0"
+  }
+}
